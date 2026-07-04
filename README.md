@@ -30,18 +30,15 @@ I enjoy learning by building practical projects rather than only consuming tutor
 
 ---
 
-## 📂 Featured Repositories
+## Currently Building
 
-| Repository | Description |
-|------------|-------------|
-| linux-notes | Linux commands, notes and examples |
-| python-for-devops | Python automation scripts |
-| bash-scripts | Useful Bash automation scripts |
-| docker-labs | Docker learning projects |
-| git-github-notes | Git examples and workflows |
+- Linux Notes
+- Docker Labs
+- Python for DevOps
+- Bash Scripts
+- Git & GitHub Notes
 
----
-
+- 
 ##  Current Goal
 
 I'm building a solid DevOps portfolio by creating practical projects and continuously improving my knowledge.
@@ -50,7 +47,7 @@ I'm building a solid DevOps portfolio by creating practical projects and continu
 
 ## 📫 Contact
 
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: (https://www.linkedin.com/in/ahmet-taha-%C3%B6nde%C5%9F-830082230)
 
 ---
 
