@@ -45,10 +45,8 @@ I'm building a solid DevOps portfolio by creating practical projects and continu
 
 ---
 
-## 📫 Contact
+## Connect with Me
 
-- LinkedIn: (https://www.linkedin.com/in/ahmet-taha-%C3%B6nde%C5%9F-830082230)
-
----
+💼 LinkedIn: https://www.linkedin.com/in/KULLANICI_ADIN
 
 > Learning by building.
