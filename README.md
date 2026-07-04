@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ahmet Taha 
 
-<!--
-**ahmettahaondes/ahmettahaondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate with an interest in DevOps and Cloud technologies.
 
-Here are some ideas to get you started:
+I'm currently building my GitHub while improving my skills in Linux, Docker, Python and automation. I prefer learning by creating practical projects instead of only following tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Linux
+- Bash Scripting
+- Python Automation
+- Docker
+- Git & GitHub
+- CI/CD
+
+## Goals
+
+- Build a solid DevOps portfolio
+- Gain real-world experience
+- Continuously improve through hands-on projects
+
+---
+
+### Tech Stack
+
+- Python
+- C
+- HTML/CSS
+- Git
+- Linux
+
+> Building practical projects while learning DevOps.
