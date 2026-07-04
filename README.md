@@ -1,32 +1,57 @@
-# Hi, I'm Ahmet Taha 
+# Hi, I'm Taha 
 
-Computer Engineering graduate with an interest in DevOps and Cloud technologies.
+### Computer Engineering Graduate | 
 
-I'm currently building my GitHub while improving my skills in Linux, Docker, Python and automation. I prefer learning by creating practical projects instead of only following tutorials.
+I'm a Computer Engineering graduate from Türkiye.
 
-## What I'm working on
+I'm currently focusing on DevOps technologies and building practical projects to improve my skills in Linux, Python, Docker and automation.
 
-- Linux
-- Bash Scripting
-- Python Automation
-- Docker
-- Git & GitHub
-- CI/CD
-
-## Goals
-
-- Build a solid DevOps portfolio
-- Gain real-world experience
-- Continuously improve through hands-on projects
+I don't believe in learning only by watching tutorials. I prefer learning by building, making mistakes and improving every day.
 
 ---
 
-### Tech Stack
+##  Current Focus
 
-- Python
-- C
-- HTML/CSS
-- Git
-- Linux
+-  Linux
+-  Python Automation
+-  Docker
+-  Git & GitHub
+-  Bash Scripting
+-  Cloud Technologies
+-  CI/CD
+-  Kubernetes (Learning)
 
-> Building practical projects while learning DevOps.
+---
+
+##  Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,git,linux,docker,html,css,vscode" />
+</p>
+
+---
+
+## 📂 Current Repositories
+
+| Repository | Description |
+|------------|-------------|
+| linux-notes | Linux commands and personal notes |
+| python-for-devops | Python scripts for automation |
+| bash-scripts | Useful Bash scripts |
+| docker-labs | Docker learning projects |
+| git-github-notes | Git command examples |
+
+---
+
+##  2026 Goals
+
+- Build a strong DevOps portfolio
+- Learn Kubernetes
+- Learn Terraform
+- Learn AWS
+- Complete real-world DevOps projects
+- Get my first DevOps internship
+
+---
+
+
